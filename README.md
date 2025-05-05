@@ -2,7 +2,7 @@
 
 A sleek desktop version of **Quarto**, the 4x4 strategy game where each of the 16 unique pieces has 4 distinct attributes. Outthink your opponent by giving them the piece that leads to their downfall.
 
-![Game Screenshot](screenshots/board.png)
+![Game Screenshot](board.jpg)
 
 ---
 
