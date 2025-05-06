@@ -29,10 +29,3 @@ Quarto is a two-player abstract strategy game. Players take turns selecting a pi
 
 - Java 17+
 - Gradle or Maven
-
-### Clone & Run
-
-```bash
-git clone https://github.com/your-username/javafx-quarto.git
-cd javafx-quarto
-./gradlew run
